@@ -76,7 +76,7 @@ Other
 
 🤝 Let's Connect
 
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: linkedin.com/in/sergio-alejandro-hernández-patiño-153a3a1b3
 - 💻 GitHub: https://github.com/alejandrosergio
 - 📧 Email: alejandro.dev.sergio@outlook.com
 

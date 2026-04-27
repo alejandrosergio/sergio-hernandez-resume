@@ -1,25 +1,26 @@
 🚀 Sergio Hernández — Resume
 
-Senior Software Developer specialized in end-to-end business solutions, process automation, and data-driven systems using Microsoft 365, Power Platform, Azure & Microsoft Fabric.
+Senior Software Developer specialized in end-to-end business solutions, process automation, and system integration using Microsoft 365, Power Platform & Azure.
 
 ---
 
 🧠 About Me
 
-I build complete solutions — from analysis and architecture to development, data integration, deployment, and user adoption.
+I build complete solutions — from analysis and architecture to development, integration, deployment, and user adoption.
 
-My focus is simple:
-👉 Deliver scalable solutions that optimize processes, centralize data, and improve decision-making.
+My focus is simple:  
+👉 Deliver scalable solutions that automate processes, connect systems, and improve operational efficiency.
 
 ---
 
 💼 Professional Profile
 
-- 🧩 End-to-End Software Development
-- ⚙️ Process Automation & System Integration
-- ☁️ Microsoft 365, Power Platform & Azure
-- 🏗️ Solution Architecture & System Design
-- 📊 Data & Analytics Solutions (Microsoft Fabric, Power BI)
+- 🧩 End-to-End Software Development  
+- ⚙️ Process Automation & System Integration  
+- ☁️ Microsoft 365, Power Platform & Azure  
+- 🔗 API Integration & Backend Development  
+- 🏗️ Solution Architecture & System Design  
+- 📊 Data & Analytics with Power BI  
 
 ---
 
@@ -33,10 +34,9 @@ Languages & Frameworks
 
 Platforms & Tools
 
-- Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Pages)  
-- Microsoft 365 (SharePoint, Teams, Planner)  
-- Azure  
-- Microsoft Fabric (Lakehouse, Dataflows, Pipelines)  
+- Microsoft Power Platform (Power Apps, Power Automate, Power BI)  
+- Microsoft 365 (SharePoint, Teams)  
+- Azure (App Services, Functions, Storage)  
 
 Databases
 
@@ -53,21 +53,21 @@ Other
 
 📊 Data & Analytics
 
-- Data integration and transformation (ETL/ELT)  
-- Lakehouse modeling and data structuring  
-- Data pipelines and orchestration  
-- Business Intelligence with Power BI  
+- Data integration and transformation  
+- Business process data structuring  
+- Dashboard development with Power BI  
+- KPI visualization for decision-making  
 
 ---
 
 📈 What I Deliver
 
-✔️ Full-cycle application development  
-✔️ Business process automation  
-✔️ System integrations (APIs & external services)  
-✔️ Data pipelines and analytics solutions  
+✔️ End-to-end business applications  
+✔️ Process automation that reduces manual workload  
+✔️ System integrations using APIs and cloud services  
+✔️ Backend extensions for Power Platform solutions  
 ✔️ Scalable and maintainable architectures  
-✔️ Real impact on operational efficiency and decision-making  
+✔️ Solutions focused on real operational impact  
 
 ---
 
@@ -76,7 +76,7 @@ Other
 - 🇪🇸 Spain — Senior Developer / Head of Development  
 - 🇨🇴 Colombia — Software Developer / Consultant  
 
-Experience working in different environments, adapting solutions to business and technical contexts.
+Experience working across different environments, adapting solutions to both business and technical needs.
 
 ---
 
@@ -106,11 +106,11 @@ Experience working in different environments, adapting solutions to business and
 
 This is not just a CV.
 
-It represents a builder mindset — someone who connects applications, data, and business processes to deliver real results.
+It represents a builder mindset — someone who designs and delivers solutions that connect applications, processes, and systems.
 
 ---
 
 🔥 Value Proposition
 
-"I don’t just develop software.  
-I build solutions that integrate systems, data, and analytics to drive business outcomes."
+"I don’t just build apps.  
+I design and deliver solutions that automate processes, integrate systems, and create real business impact."
